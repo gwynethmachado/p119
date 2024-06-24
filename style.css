@@ -1,0 +1,20 @@
+body {
+    background-color: lightsalmon;
+}
+
+#score {
+    font-size: 35px;
+    margin-left: 25px;
+
+}
+
+#time{
+    font-size: 35px;
+    margin-right: 25px;
+    float: right;
+
+}
+
+#sketch_name{
+    color: darkgoldenrod ;
+}
